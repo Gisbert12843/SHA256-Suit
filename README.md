@@ -1,17 +1,16 @@
-To Use:
-
+To Use:  <br />
   Drag and Drop one or multiple files onto the .exe.
   Choose an option in the terminal.
   When validating a file, you gotta provide the "real" SHA256 hash.
 
-</br>
-Error-Codes:
-
-  -1  You gotta drag-drop a file onto the exe or provide it with a filepath in any other way.\
-  -2  You can only provide a single file to be hashed and/or validated\
-  -3  File couldn't be processed or process got interrupted. Try it again. Might also be a failure on my part.\
-
-</br>
+  <br />
+Error-Codes:  <br />
+  <br />
+  -1  You gotta drag-drop a file onto the exe or provide it with a filepath in any other way.  <br />
+  -2  You can only provide a single file to be hashed and/or validated  <br />
+  -3  File couldn't be processed or process got interrupted. Try it again. Might also be a failure on my part.  <br />
+  <br />
+  <br />
 Wanna build your own OpenSSL project and/or work with mine?
 Maybe got confused and frustrated with 10 different and not working versions of OpenSSL?
 
