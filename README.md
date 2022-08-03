@@ -4,7 +4,7 @@ To Use:
   Choose an option in the terminal.
   When validating a file, you gotta provide the "real" SHA256 hash.
 
-
+</br>
 Error-Codes:
 
   -1  You gotta drag-drop a file onto the exe or provide it with a filepath in any other way.\
