@@ -11,7 +11,7 @@ Error-Codes:
   -2  You can only provide a single file to be hashed and/or validated\
   -3  File couldn't be processed or process got interrupted. Try it again. Might also be a failure on my part.\
 
-
+</br>
 Wanna build your own OpenSSL project and/or work with mine?
 Maybe got confused and frustrated with 10 different and not working versions of OpenSSL?
 
