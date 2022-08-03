@@ -1,4 +1,5 @@
 To Use:  <br />
+  <br />
   Drag and Drop one or multiple files onto the .exe.
   Choose an option in the terminal.
   When validating a file, you gotta provide the "real" SHA256 hash.
