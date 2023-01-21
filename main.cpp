@@ -152,12 +152,6 @@ signed int start(int argc, char* argv[])
         getline(std::cin, menuchoice);
     } while (menuchoice.length() != 1 && menuchoice.find_first_not_of("123"));
 
-    do
-    {
-        std::cout << "Please choose a function to use." << std::endl;
-        cout << "***\n1: hash a file\n2: hash multiple files\n3: validate a file with a given hash by comparing\n***" << endl;
-        getline(std::cin, menuchoice);
-    } while (menuchoice.length() != 1 && menuchoice.find_first_not_of("123"));
 
     switch (stoi(menuchoice))
     {
